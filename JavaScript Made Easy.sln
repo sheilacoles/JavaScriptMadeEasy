@@ -1,0 +1,159 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 1", "Chapter 1", "{E4E644AE-283A-490E-8185-A3FDE679F307}"
+	ProjectSection(SolutionItems) = preProject
+		inline.html = inline.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 2", "Chapter 2", "{921FA084-37B1-4241-84B9-73A3E03ED515}"
+	ProjectSection(SolutionItems) = preProject
+		head.html = head.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 3", "Chapter 3", "{E3ED87BC-3ECA-4B62-BF15-B675B075D3DD}"
+	ProjectSection(SolutionItems) = preProject
+		external.html = external.html
+		external.js = external.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 4", "Chapter 4", "{C5360F67-5CD7-42BD-9778-A1BD86F68C78}"
+	ProjectSection(SolutionItems) = preProject
+		domload.html = domload.html
+		domload.js = domload.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 5", "Chapter 5", "{B0F24175-FF5D-4EA8-886E-84B678138FB6}"
+	ProjectSection(SolutionItems) = preProject
+		variable.html = variable.html
+		variable.js = variable.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 6", "Chapter 6", "{C898793B-F830-4C22-A1D9-430B510B33DF}"
+	ProjectSection(SolutionItems) = preProject
+		argument.html = argument.html
+		argument.js = argument.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 7", "Chapter 7", "{9FA50823-496A-4529-8B2B-C6A9ACC6A2D9}"
+	ProjectSection(SolutionItems) = preProject
+		scope.html = scope.html
+		scope.js = scope.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 8", "Chapter 8", "{4D47B6A8-2984-45A7-8883-B75C7CA0048E}"
+	ProjectSection(SolutionItems) = preProject
+		arithmetic.html = arithmetic.html
+		arithmetic.js = arithmetic.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 9", "Chapter 9", "{275403D4-A793-4434-A063-BF4F72A99FBF}"
+	ProjectSection(SolutionItems) = preProject
+		assign.html = assign.html
+		assign.js = assign.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 10", "Chapter 10", "{165589BD-FBED-4184-A97A-76A76D18F41C}"
+	ProjectSection(SolutionItems) = preProject
+		compare.html = compare.html
+		compare.js = compare.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Getting Started", "1 Getting Started", "{C67981AB-2F6B-4F49-99CD-CC9D99490EA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Performing Operations", "2 Performing Operations", "{55C8C5A6-5F7E-4D37-BCA0-D3413CB94B07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 11", "Chapter 11", "{EA1EB4A3-0150-48A3-AB59-DD97BB0634DC}"
+	ProjectSection(SolutionItems) = preProject
+		logic.html = logic.html
+		logic.js = logic.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 12", "Chapter 12", "{CFCC9FDB-C6BF-4854-8BCC-0A3CDF909951}"
+	ProjectSection(SolutionItems) = preProject
+		condition.html = condition.html
+		condition.js = condition.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 13", "Chapter 13", "{C409D894-029D-4B63-954E-210867F497FD}"
+	ProjectSection(SolutionItems) = preProject
+		priority.html = priority.html
+		priority.js = priority.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Controlling Flow", "3 Controlling Flow", "{6E32675C-0959-47A8-BC25-332B4C1BE7F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 Branching with If", "3.0 Branching with If", "{E4B9C7FE-DED2-4AA5-B054-105FA3DD0C75}"
+	ProjectSection(SolutionItems) = preProject
+		if.html = if.html
+		if.js = if.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1 Branching alternatives", "3.1 Branching alternatives", "{DE7FA0A7-A0A8-478A-AB87-16053D66BBCD}"
+	ProjectSection(SolutionItems) = preProject
+		else.html = else.html
+		else.js = else.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2 Switching alternatives", "3.2 Switching alternatives", "{A8568B21-B317-48F3-8A5D-0E64E9031D3D}"
+	ProjectSection(SolutionItems) = preProject
+		switch.html = switch.html
+		switch.js = switch.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.3 Looping for", "3.3 Looping for", "{66B2CA10-22B7-4ED1-A4DE-23A0F7959100}"
+	ProjectSection(SolutionItems) = preProject
+		for.html = for.html
+		for.js = for.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.4 Looping while true", "3.4 Looping while true", "{1B300A33-B59C-46E8-8E5F-29210173D6E6}"
+	ProjectSection(SolutionItems) = preProject
+		while.html = while.html
+		while.js = while.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.5 Do-while loops", "3.5 Do-while loops", "{9049DE65-CE63-41AA-9D52-7EA03BDF9315}"
+	ProjectSection(SolutionItems) = preProject
+		dowhile.html = dowhile.html
+		dowhile.js = dowhile.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.6 Breaking out of loops", "3.6 Breaking out of loops", "{B7735F2A-4731-4985-888D-D012D3BCD9E4}"
+	ProjectSection(SolutionItems) = preProject
+		break.html = break.html
+		break.js = break.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4E644AE-283A-490E-8185-A3FDE679F307} = {C67981AB-2F6B-4F49-99CD-CC9D99490EA5}
+		{921FA084-37B1-4241-84B9-73A3E03ED515} = {C67981AB-2F6B-4F49-99CD-CC9D99490EA5}
+		{E3ED87BC-3ECA-4B62-BF15-B675B075D3DD} = {C67981AB-2F6B-4F49-99CD-CC9D99490EA5}
+		{C5360F67-5CD7-42BD-9778-A1BD86F68C78} = {C67981AB-2F6B-4F49-99CD-CC9D99490EA5}
+		{B0F24175-FF5D-4EA8-886E-84B678138FB6} = {C67981AB-2F6B-4F49-99CD-CC9D99490EA5}
+		{C898793B-F830-4C22-A1D9-430B510B33DF} = {C67981AB-2F6B-4F49-99CD-CC9D99490EA5}
+		{9FA50823-496A-4529-8B2B-C6A9ACC6A2D9} = {C67981AB-2F6B-4F49-99CD-CC9D99490EA5}
+		{4D47B6A8-2984-45A7-8883-B75C7CA0048E} = {55C8C5A6-5F7E-4D37-BCA0-D3413CB94B07}
+		{275403D4-A793-4434-A063-BF4F72A99FBF} = {55C8C5A6-5F7E-4D37-BCA0-D3413CB94B07}
+		{165589BD-FBED-4184-A97A-76A76D18F41C} = {55C8C5A6-5F7E-4D37-BCA0-D3413CB94B07}
+		{EA1EB4A3-0150-48A3-AB59-DD97BB0634DC} = {55C8C5A6-5F7E-4D37-BCA0-D3413CB94B07}
+		{CFCC9FDB-C6BF-4854-8BCC-0A3CDF909951} = {55C8C5A6-5F7E-4D37-BCA0-D3413CB94B07}
+		{C409D894-029D-4B63-954E-210867F497FD} = {55C8C5A6-5F7E-4D37-BCA0-D3413CB94B07}
+		{E4B9C7FE-DED2-4AA5-B054-105FA3DD0C75} = {6E32675C-0959-47A8-BC25-332B4C1BE7F3}
+		{DE7FA0A7-A0A8-478A-AB87-16053D66BBCD} = {6E32675C-0959-47A8-BC25-332B4C1BE7F3}
+		{A8568B21-B317-48F3-8A5D-0E64E9031D3D} = {6E32675C-0959-47A8-BC25-332B4C1BE7F3}
+		{66B2CA10-22B7-4ED1-A4DE-23A0F7959100} = {6E32675C-0959-47A8-BC25-332B4C1BE7F3}
+		{1B300A33-B59C-46E8-8E5F-29210173D6E6} = {6E32675C-0959-47A8-BC25-332B4C1BE7F3}
+		{9049DE65-CE63-41AA-9D52-7EA03BDF9315} = {6E32675C-0959-47A8-BC25-332B4C1BE7F3}
+		{B7735F2A-4731-4985-888D-D012D3BCD9E4} = {6E32675C-0959-47A8-BC25-332B4C1BE7F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B406E1-6349-4CEC-BC5F-14A8915AD407}
+	EndGlobalSection
+EndGlobal
